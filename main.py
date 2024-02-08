@@ -58,7 +58,7 @@ def is_transaction_success(money_received, drink_cost):
         profit += drink_cost
         return True
     else:
-        print("not enouhg monkey")
+        print("not enouhg money")
         return False
 
 
